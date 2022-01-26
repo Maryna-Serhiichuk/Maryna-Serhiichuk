@@ -18,5 +18,5 @@
 #### Back-end
 ![](https://img.shields.io/badge/Strapi-CMS-informational?style=flat-square&logo=strapi&logoColor=white&color=d8f3dc)
 ![](https://img.shields.io/badge/GraphQL-API-informational?style=flat-square&logo=graphql&logoColor=white&color=d8f3dc)
-![](https://img.shields.io/badge/Apollo-API-informational?style=flat-square&logo=apollographql&logoColor=white&color=d8f3dc)
 ![](https://img.shields.io/badge/SQL-Language-informational?style=flat-square&logo=mysql&logoColor=white&color=d8f3dc)
+![](https://img.shields.io/badge/Apollo-API-informational?style=flat-square&logo=apollographql&logoColor=white&color=d8f3dc)
