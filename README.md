@@ -14,7 +14,7 @@
 
 ![](https://img.shields.io/badge/SASS-Dialect-informational?style=flat-square&logo=sass&logoColor=white&color=d8f3dc)
 ![](https://img.shields.io/badge/Ant_Design-UI_Framework-informational?style=flat-square&logo=antdesign&logoColor=white&color=d8f3dc)
-![](https://img.shields.io/badge/Redux-Api-state-informational?style=flat-square&logo=redux&logoColor=white&color=d8f3dc)
+![](https://img.shields.io/badge/Redux-API_State-informational?style=flat-square&logo=redux&logoColor=white&color=d8f3dc)
 
 #### Back-end
 ![](https://img.shields.io/badge/Strapi-CMS-informational?style=flat-square&logo=strapi&logoColor=white&color=d8f3dc)
