@@ -44,7 +44,7 @@
       <br>GraphQL
     </td>
   <td align="center" width="88">
-        <img src="https://static-00.iconduck.com/assets.00/apollo-icon-512x512-xs5t5onq.png" alt="Apollo Client" width="44" height="44"/>
+        <img src="https://www.apollographql.com/assets/footer/apollo-word-mark.svg" alt="Apollo Client" width="44" height="44"/>
       <br>Apollo Client
     </td>
     <td align="center" width="88"> 
